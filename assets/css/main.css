@@ -7,7 +7,7 @@ body {
     background-color: #effcff;
     font-family: 'Maven Pro', sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     color: #5e6363;
 
     -webkit-font-smoothing: antialiased;
@@ -76,7 +76,7 @@ a:after {
 
 .contactInfo{
 	font-family: 'Maven Pro', sans-serif;
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: 500;
 }
 
@@ -86,7 +86,7 @@ a:after {
 
 .contactLink{
 	font-family: 'Maven Pro', sans-serif;
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: 500;
 	text-decoration: underline;
 }
@@ -97,7 +97,6 @@ a:after {
 
 #projectNotes{
 	font-style: italic;
-	margin-top: 2em;
 }
 
 
