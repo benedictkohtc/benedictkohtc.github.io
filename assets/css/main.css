@@ -65,6 +65,15 @@ a:after {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
+ hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #0a6464;
+    margin: 1em 0;
+    padding: 0;
+}
+
 .contactInfo{
 	font-family: 'Maven Pro', sans-serif;
 	font-size: 18px;
@@ -86,14 +95,10 @@ a:after {
 	color: white;
 }
 
- hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 3px solid #0a6464;
-    margin: 1em 0;
-    padding: 0;
+#whereWorkNote{
+	font-style: italic;
 }
+
 
 /* ================== BASIC CONFIGURATION ================== */
 
