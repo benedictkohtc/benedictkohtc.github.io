@@ -95,8 +95,9 @@ a:after {
 	color: white;
 }
 
-#whereWorkNote{
+#projectNotes{
 	font-style: italic;
+	margin-top: 2em;
 }
 
 
